@@ -75,10 +75,10 @@ Open your browser and visit: http://127.0.0.1:8000/
 🧾 Feedback/contact form (Django Form or Google Forms optional)
 
 # SCREENSHOTS
-![Screenshot 2025-07-05 210257](https://github.com/user-attachments/assets/5da189f4-4383-4be7-8165-e05fe19091af)
-![Screenshot 2025-07-05 210257](https://github.com/user-attachments/assets/780ef39c-c79e-424e-a4d3-b415c5f12ac2)
-![Screenshot 2025-07-05 210617](https://github.com/user-attachments/assets/3c6978e7-ad14-47d8-9fc2-f6edc458352c)
-![Screenshot 2025-07-05 210541](https://github.com/user-attachments/assets/82f03b32-4d95-44f2-b47a-5b4fb666dc67)
+(https://github.com/user-attachments/assets/5da189f4-4383-4be7-8165-e05fe19091af)
+(https://github.com/user-attachments/assets/780ef39c-c79e-424e-a4d3-b415c5f12ac2)
+(https://github.com/user-attachments/assets/3c6978e7-ad14-47d8-9fc2-f6edc458352c)
+(https://github.com/user-attachments/assets/82f03b32-4d95-44f2-b47a-5b4fb666dc67)
 
 
 # 🙌 Credits
