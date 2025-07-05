@@ -44,12 +44,11 @@ sevenwonders/
 │   └── wsgi.py
 └── README.md
 
-
----
+```
 
 # Setup Instructions 🔧
 1. Clone the Repository
-git clone https://github.com/yourusername/sevenwonders.git
+git clone https://github.com/Vaishnavishatagopam77/Travel_Blog
 cd sevenwonders
 
 2. Create a Virtual Environment
@@ -63,9 +62,8 @@ pip install django
 python manage.py runserver
 Open your browser and visit: http://127.0.0.1:8000/
 
-##🌐 Deployed Demo
 
-#📝 Features
+# 📝 Features
 🔗 Dynamic navigation with Home | About | Feedback links
 
 📷 Fully templated wonder pages with unique backgrounds and content
@@ -75,10 +73,13 @@ Open your browser and visit: http://127.0.0.1:8000/
 🧾 Feedback/contact form (Django Form or Google Forms optional)
 
 # SCREENSHOTS
-(https://github.com/user-attachments/assets/5da189f4-4383-4be7-8165-e05fe19091af)
-(https://github.com/user-attachments/assets/780ef39c-c79e-424e-a4d3-b415c5f12ac2)
-(https://github.com/user-attachments/assets/3c6978e7-ad14-47d8-9fc2-f6edc458352c)
-(https://github.com/user-attachments/assets/82f03b32-4d95-44f2-b47a-5b4fb666dc67)
+![Screenshot 2025-07-05 210257](https://github.com/user-attachments/assets/6f27f7f0-44a1-4334-b371-1325809d08bd)
+
+![Screenshot 2025-07-05 210541](https://github.com/user-attachments/assets/588bfd15-117a-4b2a-992f-4be1ae78c3d4)
+
+![Screenshot 2025-07-05 210629](https://github.com/user-attachments/assets/ab36fe43-f186-42b6-9153-4817fea025c2)
+
+![Screenshot 2025-07-05 210629](https://github.com/user-attachments/assets/076583a4-4180-460a-95f9-d2f5569cde02)
 
 
 # 🙌 Credits
