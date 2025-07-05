@@ -45,37 +45,28 @@ sevenwonders/
 └── README.md
 
 
+---
 
-
-## Setup Instructions 🔧
+# Setup Instructions 🔧
 1. Clone the Repository
-bash
-Copy
-Edit
 git clone https://github.com/yourusername/sevenwonders.git
 cd sevenwonders
+
 2. Create a Virtual Environment
-bash
-Copy
-Edit
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
+
 3. Install Requirements
-bash
-Copy
-Edit
 pip install django
+
 4. Run the Development Server
-bash
-Copy
-Edit
 python manage.py runserver
 Open your browser and visit: http://127.0.0.1:8000/
 
-🌐 Deployed Demo
+##🌐 Deployed Demo
 Live site (if hosted): https://yourusername.github.io/sevenwonders
 
-📝 Features
+#📝 Features
 🔗 Dynamic navigation with Home | About | Feedback links
 
 📷 Fully templated wonder pages with unique backgrounds and content
@@ -84,12 +75,12 @@ Live site (if hosted): https://yourusername.github.io/sevenwonders
 
 🧾 Feedback/contact form (Django Form or Google Forms optional)
 
-🙌 Credits
+# 🙌 Credits
 Content and layout by [Your Name]
 
 Images sourced from Wikimedia Commons
 
 Powered by Django 💡
 
-📄 License
+# 📄 License
 This project is licensed under the MIT License
